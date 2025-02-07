@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ab30ef6-80ae-4898-9e4e-ba5615a1df47)<h1 align="center">Hi 👋, I'm AKSHAY PRAKASH J S</h1>
+<h1 align="center">Hi 👋, I'm AKSHAY PRAKASH J S</h1>
 <h3 align="center">Robotics And Automation Engineer</h3>
 <p align="left">
   <img
@@ -111,14 +111,6 @@
     <img
       src="https://www.kuka.com/-/media/kuka-corporate/images/home/logos/kuka_logo.svg?rev=-1&hash=D89635BD83E7413E2F1D8545163A3AA1"
       alt="KUKA ROBOT PROGRAMMING"
-      width="40"
-      height="40"
-    />
-     </a>
-  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
-    <img
-      src=""
-      alt="POWER BI"
       width="40"
       height="40"
     />
