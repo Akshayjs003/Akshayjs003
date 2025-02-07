@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AKSHAY PRAKASH J S</h1>
+![image](https://github.com/user-attachments/assets/0ab30ef6-80ae-4898-9e4e-ba5615a1df47)<h1 align="center">Hi 👋, I'm AKSHAY PRAKASH J S</h1>
 <h3 align="center">Robotics And Automation Engineer</h3>
 <p align="left">
   <img
@@ -82,6 +82,14 @@
       width="40"
       height="40"
     />
+     </a>
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.r-project.org/Rlogo.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img
@@ -95,6 +103,30 @@
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
       alt="tensorflow"
+      width="40"
+      height="40"
+    />
+     </a>
+  <a href="https://www.kuka.com/en-in/products/robotics-systems/industrial-robots" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.kuka.com/-/media/kuka-corporate/images/home/logos/kuka_logo.svg?rev=-1&hash=D89635BD83E7413E2F1D8545163A3AA1"
+      alt="KUKA ROBOT PROGRAMMING"
+      width="40"
+      height="40"
+    />
+     </a>
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img
+      src=""
+      alt="POWER BI"
+      width="40"
+      height="40"
+    />
+      </a>
+  <a href="https://www.mitsubishielectric.com/fa/products/cnt/plc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.mitsubishielectric.com/fa/shared/gws0001/img/me_logo.svg"
+      alt="PLC,HMI AND ROBOT PROGRAMMING"
       width="40"
       height="40"
     />
